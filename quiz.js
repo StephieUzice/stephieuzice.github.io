@@ -23,7 +23,7 @@ const quizQuestions = [
       correctAnswer: "b"
     },
     {
-      question: "Stephie students at:",
+      question: "Stephie studies at:",
       answers: {
         a: "Curtin University",
         b: "CSIRO",
