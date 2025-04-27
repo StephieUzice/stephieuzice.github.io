@@ -28,7 +28,7 @@ const quizQuestions = [
         a: "Curtin University",
         b: "CSIRO",
         c: "QUT",
-        d: "All of the above... somehow"
+        d: "All of the above... technically"
       },
       correctAnswer: "d"
     },
@@ -36,7 +36,7 @@ const quizQuestions = [
       question: "Stephie likes to:",
       answers: {
         a: "Read (fiction because non-fiction is diabolical)",
-        b: "Listen to podcasts in long drives",
+        b: "Listen to podcasts on long drives",
         c: "Knit herself clothes",
         d: "All of the above...Choose this one cause I told you nothing about myself!"
       },
